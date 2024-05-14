@@ -1,4 +1,5 @@
-# Test Method for both BubbleSort() method and SelectionSort() method
+# Test Method for both BubbleSort() method and SelectionSort() method from https://github.com/Kyn21kx/SimpleSortingBenchmarks/blob/main/algorithms.py 
+
 # Created by: Malaika Noor
 # Student ID: 20723989
 # Purpose: For Software Engineering Testing Assignment
