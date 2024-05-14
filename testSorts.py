@@ -4,7 +4,7 @@
 # Student ID: 20723989
 # Purpose: For Software Engineering Testing Assignment
 
-from sorts import *
+from algorithms import *
 
 def test_BubbleSort():
     # Test case 1: Empty array
